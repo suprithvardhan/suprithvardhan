@@ -86,39 +86,13 @@
 
 <p align="center">
   <a href="https://github.com/suprithvardhan/chainreaction" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suprithvardhan&repo=chainreaction&theme=radical" alt="Chain Reaction Repository">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suprithvardhan&repo=ChainReactiongame&theme=radical" alt="Chain Reaction Repository">
   </a>
 </p>
 
 ---
 
-### 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
----
-
-### 👨‍💻 Work Experience
-
-- **[Company Name]**: [Job Title] (Date - Date)
-  - Brief description of your role and achievements.
-
----
-
-### 🛠️ Open Source Contributions
-
-- **[Repository Name]**: Brief description of your contribution.
-- **[Repository Name]**: Brief description of your contribution.
-
----
 
 ### 📈 Coding Activity
 
@@ -175,10 +149,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <p align="center">
   <a href="https://github.com/suprithvardhan/project1" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suprithvardhan&repo=project1&theme=radical" alt="Project 1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suprithvardhan&repo=ChainReactiongame&theme=radical" alt="Project 1">
   </a>
   <a href="https://github.com/suprithvardhan/project2" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suprithvardhan&repo=project2&theme=radical" alt="Project 2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suprithvardhan&repo=cricket-scorecard&theme=radical" alt="Project 2">
   </a>
 </p>
 
