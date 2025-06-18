@@ -92,14 +92,6 @@
 
 ---
 
-
-
-### 📈 Coding Activity
-
-![suprithvardhan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=suprithvardhan&theme=radical)
-
----
-
 ### 🎨 GitHub Profile Views
 
 <p align="center">
@@ -126,12 +118,6 @@
 
 ---
 
-### 🏅 Achievements
-
-- **Hackathon Winner**: [Hackathon Name], [Year].
-- **Certification**: [Certification Name], [Year].
-
----
 
 
 ### ✨ Fun Fact
